@@ -15,3 +15,7 @@ npm run dev
 ```
 php artisan serve
 ```
+
+Video Presentasi dan demo aplikasi dapat diakses pada link: 
+
+https://drive.google.com/drive/folders/1nVD5odm20MeqvMocoVmubNFRuQIZohXP?usp=sharing
