@@ -8,9 +8,7 @@ MyPicket adalah website kemitraan antara Kelompok 2 Backend TI B 22 FTI Untar de
 Untuk mengakses website MyPicket, jalankan perintah berikut
 ```
 npm install
-```
-
-```
+composer install
 npm run dev
 ```
 
